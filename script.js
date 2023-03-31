@@ -4,6 +4,7 @@ let trgt = document.getElementById('t_rgt');
 let glft = document.getElementById('g_lft');
 let grgt = document.getElementById('g_rgt');
 
+
 window.addEventListener('scroll', () => {
     let value = window.scrollY;
 
